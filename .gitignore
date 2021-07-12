@@ -1,0 +1,12 @@
+
+*.class
+build/tmp/compileJava/source-classes-mapping.txt
+.idea/uiDesigner.xml
+.idea/uiDesigner.xml
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/issuestore/6/b/6b1bc10313eadf654a1b738266fefd3e8b4051c3
+.idea/gradle.xml
+*.bin
+*.lock
+.idea/uiDesigner.xml
+.idea/gradle.xml
